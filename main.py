@@ -6,7 +6,7 @@ from time import sleep
 import pandas as pd
 
 # your word to tweet
-data = ['hello', 'hi', '私']
+data = ['hello', 'hi', '私', 'you', 'I']
 
 # your username twitter
 username = ''
